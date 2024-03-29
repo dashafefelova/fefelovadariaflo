@@ -1,0 +1,1422 @@
+
+
+@media screen and (min-width: 415px) and (max-width: 768px) {
+
+    :root{
+        font-size: 1.3vw;
+    } 
+    .name{
+        width: 75vw;
+    }
+
+    .time{
+        top: 11vw;
+    }
+
+    .fallinglettersfirst{
+        position: relative;
+        bottom: 1vw;
+        right: 3vw;
+    }
+    
+    .fallfirstimg{
+        width: 8vw;
+    }
+    
+    .fallingletterssecond{
+        position: relative;
+        left:22vw;
+        top: 3vw;
+    }
+    
+    .fallsecondimg{
+        width: 6vw;
+    }
+    
+    .fallinglettersthird{
+        position: relative;
+        left: 28vw;
+        bottom: 3vw;
+    }
+    
+    .fallthirdimg{
+        width: 8vw;
+    }
+    
+
+    .flowerfirstbox{
+        position: relative;
+        width: 100vw;
+        bottom: 102vw;
+        right: 15vw;
+        display: flex;
+        justify-content: end;
+    }
+    
+    .flowerfirst{
+        position: relative;
+        width: 40vw;
+        z-index: 1;
+    }
+    
+    .flowerfirstimg{
+        width: 25vw;
+    }
+
+    .scorobox{
+        bottom:115vw;
+    }
+    
+    .scoro{
+        right: 1vw;
+    }
+    .scoroimg{
+        width: 45vw;
+    }
+
+    .boxsovsemuze{
+        bottom: 15vw;
+    }
+    
+    .sovsemimg{
+        width: 45vw;
+    }
+ 
+    .typedcirclebigboxtwo{
+        bottom: 172vw;
+    }
+
+    .typedcirclebigbox{
+        left: 3vw;
+    }
+
+    .miniflobox{
+        display: none;
+    }
+
+    .flowerfirstbox{
+        bottom: 88vw;
+    }
+
+    .flowerfirstimg{
+        width: 30vw;
+    }
+
+    .bigflox{
+        bottom: 66vw;
+    }
+
+    .thirdflo{
+        right: 3vw;
+    }
+
+    .firstflo{
+        bottom: 0vw;
+        top: 20vw;
+    }
+
+    .whereimg{
+        width: 85vw;
+    }
+
+    .scenarioimg{
+        width: 65vw;
+    }
+
+    .scenario{
+        left: 30vw;
+    }
+
+    .letterfallsecond{
+        left:9vw;
+        bottom: 8vw;
+    }
+
+    .letterfallthird{
+        left: 1vw;
+        top: 2vw;
+    }
+
+    .strokefirstimg{
+        width: 70vw;
+    }
+
+    .strokesecondimg{
+        width: 50vw;
+    }
+
+    .strokethreeboxosn{
+        justify-content: center;
+        bottom: 107vw;
+        z-index: 1;
+    }
+
+    .strokethree{
+        left: 7vw;
+    }
+
+    .firstfallimg{
+        width: 9vw;
+    }
+
+    .secondfallimg{
+        width: 8vw;
+    }
+
+    .thirdfallimg{
+        width: 6vw;
+    }
+
+    .boxfallfourd{
+        left: 15vw;
+    }
+
+    .firstfall{
+        right: 7vw;
+    }
+
+    .boxfallfive{
+        justify-content: start;
+        z-index: 1;
+        bottom: 124vw;
+    }
+
+    .thirdfall{
+        left: 35vw;
+    }
+
+    .bigboxbroke{
+        bottom: 115vw;
+    }
+
+    .fixbroke{
+        left: 10vw;
+        height: 2vw;
+    }
+
+    .minifloboxtwo{
+        justify-content: start;
+        bottom: 100vw;
+    }
+
+    .miniflotwo{
+        left: 20vw;
+    }
+
+    .listbox{
+        bottom: 155vw;
+        z-index: 2;
+    }
+
+    .list{
+        width: 60vw;
+        overflow: hidden;
+        left: 10vw;
+    }
+
+    .listimg{
+        width: 65vw;
+    }
+
+    .questionfirstboxtwo{
+        bottom: 0vw;
+        top: 65vw;
+    }
+
+    .questionfirstbox{
+        height: 60vw;
+    }
+
+    .fixquest{
+        position: relative;
+        width: 40vw;
+    }
+
+    .questioneigth{
+        display: none;
+    }
+    
+    .questionninth{
+        display: none;
+    }
+    
+    .questionten{
+        display: none;
+    }
+    
+    .questioneleven{
+        display: none;
+    }
+
+
+    .question{
+        font-size: 2vw;
+    }
+
+    .fogotbox{
+        left: 25vw;
+    }
+
+    .fogotboxbig{
+        bottom: 0vw;
+        top: 10vw;
+    }
+
+    .fogot{
+        font-size: 2vw;
+    }
+
+    .lightoffbigbox{
+        bottom: 15vw;
+    }
+
+    .light{
+        font-size: 2vw;
+    }
+
+    .lightoffbox{
+        rotate: 0deg;
+    }
+
+    .lightofffirst{
+        bottom: 7vw;
+    }
+
+    .fixlight{
+        width: 30vw;
+    }
+
+    .perenosbox{
+        bottom: 155vw;
+    }
+
+    .perenos{
+        width: 80vw;
+    }
+
+    .perenosimg{
+        width: 80vw;
+    }
+
+    .flolistboxbig{
+        bottom: 60vw;
+    }
+
+    .flolistflo{
+        bottom: 26vw;
+        right: 10vw;
+        animation: rotatedtwo 1s infinite;
+    }
+
+    .flolistlistimg{
+        width: 30vw;
+    }
+
+    .flolistfloimg{
+        width: 60vw;
+    }
+
+    .brokenbox{
+        bottom: 0vw;
+        top: 20vw;
+    }
+
+    .broken{
+        width: 70vw;
+        left: 3vw;
+    }
+    
+    .brokenimg{
+        width: 70vw;
+    }
+
+    .fallletterlastonebox{
+        bottom: 0vw;
+        top: 20vw;
+    }
+
+    .fallletterlastone{
+        left: 12vw;
+    }
+
+    .fallletterlastoneimg{
+        width: 9vw;
+    }
+
+    .provalboxbig{
+        justify-content: center;
+        bottom: 45vw;
+    }
+
+    .proval{
+        width: 95vw;
+        left: 0vw;
+    }
+    
+    .provalimg{
+        width: 95vw;
+    }
+
+    .doppflobox{
+        position: relative;
+        width: 90vw;
+        display: flex;
+        justify-content: center;
+        bottom: 335vw;
+    }
+
+    .doppflo{
+        position: relative;
+        width: 3vw;
+        right: 30vw;
+    }
+
+    .doppfloimg{
+        width: 40vw;
+    }
+
+    .podval{
+        bottom: 160vw;
+    }
+
+    .doorbox{
+        bottom: 165vw;
+    }
+
+    .falllastletterbox{
+        bottom: 168vw;
+    }
+
+    .doorimg{
+        width: 40vw;
+    }
+
+    .falllastletter{
+        right: 11vw;
+    }
+
+    .falllastletterimg{
+        width: 8vw;
+    }
+    
+    .lightoffsecond{
+        left: 5vw;
+        top: 1vw;
+    }
+
+   
+    
+    .lightofffoarth{
+        bottom: 0vw;
+        top: 2vw;
+        left: 10vw;
+    }
+    
+    .lightofffifth{
+        bottom: 0vw;
+        top: 5vw;
+        left: 8vw;
+    }
+    
+    .lightoffsixth{
+        bottom: 0vw;
+        top: 2vw;
+        right: 3vw;
+    }
+    
+    .lightoffseventh{
+        bottom: 1vw;
+    }
+    
+    .lightoffeighth{
+        bottom: 0vw;
+        top: 6vw;
+        right: 2vw;
+    }
+    
+    .lightoffninth{
+        bottom: 0vw;
+        top: 3vw;
+        right: 10vw;
+    }
+    
+    .lightofftenth{
+        bottom: 0vw;
+        top: 3vw;
+        right: 12vw;
+    }
+    
+    .lightoffeleventh{
+        bottom: 0vw;
+        top: 2vw;
+        right: 9vw;
+    }
+    
+    .lightofftwelth{
+        bottom: 0vw;
+        top: 3vw;
+        right: 8vw;
+    }
+    
+    .lightoffthirteenth{
+        bottom: 0vw;
+        top: 4vw;
+        right: 12vw;
+    }
+    
+    .lightofffourteenth{
+        bottom: 0vw;
+        top: 2vw;
+        right: 20vw;
+    }
+    
+    .lightofffifteenth{
+        bottom: 0vw;
+        top: 3vw;
+        right: 17vw;
+    }
+    
+    .lightoffsixteenth{
+        bottom: 0vw;
+        top:4vw;
+        right: 15.5vw;
+    }
+    
+    .lightoffseventeenth{
+        bottom: 0vw;
+        top: 4vw;
+        right: 17vw;
+    }
+    
+    .lightoffeighteenth{
+        bottom: 0vw;
+        top: 2vw;
+        right: 16vw;
+    }
+    
+    .lightoffnineteenth{
+        bottom: 0vw;
+        top: 3vw;
+        right: 20vw;
+    }
+    
+    .lightofftwentyth{
+        bottom: 0vw;
+        top: 9vw;
+        right: 10vw;
+    }
+    
+    .lightofftwentyoneth{
+        bottom: 0vw;
+        top: 6vw;
+        right: 25vw;
+    }
+    
+    .lightofftwentytwoth{
+        bottom: 0vw;
+        top: 10vw;
+        right: 40vw;
+    }
+    
+
+}
+
+@media screen and (max-width: 414px) {
+    .head{display: none;}
+
+    :root{
+        font-size: 2vw;
+    } 
+
+    .headsmall{
+        width:99vw;
+        position: relative;
+        display: flex;
+        justify-content: start;
+        top: 3vw;
+    }
+
+    .namesmall{
+        position: relative;
+        width: 80vw;
+        z-index: 0;
+        left: 3vw;
+    }
+
+    .time{
+        left: 3vw;
+        top: 24vw;
+        
+    }
+
+    .boxfall{
+        width: 99vw;
+        justify-content: start;
+        
+    }
+
+    .fallingletters{
+        left: 20vw;
+        
+    }
+    
+    .fallingletterssecond{
+        left: 27vw;
+        
+    }
+    
+    .fallsecondimg{
+        width: 10vw;
+    }
+    
+    .fallinglettersfirstsmall{
+        position: relative;
+        display: flex;
+        right: 6vw;
+        bottom: 5vw;
+        
+    }
+
+    .fallfirstsmallimg{
+        width: 11vw;
+    }
+
+    .fallinglettersthird{
+        position: relative;
+        left: 43vw;
+        top: 0vw;
+    }
+    
+    .fallthirdimg{
+        width: 11vw;
+    }
+    
+    .fallinglettersfirst{
+        display: none;
+    }
+
+    .petalsfirstboxtwo{
+        top: 35vw;
+        right: 3vw;
+        
+    }
+
+    .petalsfirstbox{
+        right: 0vw;
+        left: 33vw;
+        
+    }
+
+    .petalssecondboxtwo{
+        top: 28vw;
+        
+    }
+
+    .petalssecondbox{
+        right: 0vw;
+        left: 23vw;
+    }
+
+    .fourthpetal{
+        left: 15vw;
+    }
+
+    .firstpetal{
+        position: relative;
+        right: 12vw;
+        
+    }
+
+    .petalsfirstimg{
+        width: 15vw;
+    }
+
+    .secondpetal{
+        bottom: 23vw;
+        left: 0vw;
+        right: 10vw;
+        
+    }
+
+    .secondpetalimg{
+        width: 18vw;
+    }
+
+    .thirdpetalimg{
+        width: 15vw;
+    }
+
+    .thirdpetal{
+        right: 0vw;
+        left: 5vw;
+    }
+
+    .fourthpetalimg{
+        width: 20vw;
+    }
+
+    .fifthpetalimg{
+        width: 35vw;
+    }
+
+    .smalli{
+        display: none;
+    }
+
+    .flowerfirstimg{
+        width: 55vw;
+        
+    }
+
+    .fix{
+        width: 46vw;
+        height: 4vw;
+        
+    }
+    
+    .typedcirclebigbox{
+        left: 18vw;
+        
+    }
+
+    .boxsovsemuze{
+        top: 32vw;
+        left: 2vw;
+        z-index: 2;
+        
+    }
+
+    .sovsemimg{
+        width: 60vw;
+    }    
+
+    .sovsem{
+        width: 90vw;
+        
+    }
+    
+    .uze{
+        top: 28vw;
+        
+    }
+
+    .uzeimg{
+        width: 35vw;
+    }
+
+    .scoro{
+        display: none;
+        
+    }
+
+    .scorosmallbox{
+        position: relative;
+        width: 99vw;
+        display: flex;
+        justify-content: center;
+        z-index: 1;
+        bottom: 38vw;
+        
+    }
+
+    .scorosmall{
+        position: relative;
+        width: 99vw;
+        
+    }
+
+    .scoroimgsmall{
+        width: 95vw;
+        
+    }
+    
+    .miniflobox{
+        display: none;
+    }
+
+    .typedcirclebigboxtwo{
+        justify-content: center;
+        bottom: 210vw;
+        
+    }
+    
+    .flowerfirstbox{
+        bottom: 107vw;
+        right: 33vw;
+        
+    }
+
+    .where{
+        display: none;
+    }
+
+    .scenario{
+        display: none;
+    }
+
+    .wheredop{
+        position: relative;
+        display: flex;
+        width: 80vw;
+        
+    }
+
+    .wheredopimg{
+        width: 90vw;
+        
+    }
+
+    .strokes{
+        top: 150vw;
+        left: 4vw;
+        
+    }
+
+    .sectiontwo{
+        height: 100vw;
+        
+    }
+
+    .bigflox{
+        bottom: 35vw;
+        
+    }
+
+    .bigfloximg{
+        width: 95vw;
+        
+    }
+
+    .boxthreeflowers{
+        width: 30vw;
+        flex-direction: column-reverse;
+        bottom: 0vw;
+        top: 130vw;
+        left: 50vw;
+        
+    }
+
+    .thirdflo{
+        right: 1vw;
+        bottom: 7vw;
+        
+    }
+    
+    .thirdfloimg{
+        width: 50vw;
+        
+    }
+
+    .secondflo{
+        top: 5vw;
+        right: 43vw;
+        
+    }
+    
+    .secondfloimg{
+        width: 35vw;
+        
+    }
+
+    .firstflo{
+        bottom: 0vw;
+        top: 30vw;
+        right: 25vw;
+        
+    }
+    
+    .firstfloimg{
+        width: 35vw;
+        
+    }
+
+    .bigboxbroke{
+        bottom: 90vw;
+        
+    }
+
+    .fixbroke{
+        position: relative;
+        width: 25vw;
+        height: 8vw;
+        left: 40vw;
+        
+    }
+
+    .textbrokebox{
+        right: 10vw;
+        
+    }
+
+    .letterfallsecond{
+        display: none;
+    }
+
+    .letterfallthird{
+        display: none;
+    }
+
+    .strokefirstsmalltwo{
+        display: none;
+    }
+
+    .letterfallfirst{
+        display: none;
+    }
+
+    .strokefirsttwo{
+        display: none;
+    }
+
+    .letterfallfirstsmall{
+        position: relative;
+        display: flex;
+        right: 11vw;
+        z-index: 3;
+    }
+
+    .letterfallimgsmall{
+        width: 10vw;
+        
+    }
+
+    .letterfallfirdsmall{
+        position: relative;
+        display: flex;
+        left: 31vw;
+        
+    }
+
+    .letterfallthreeimgsmall{
+        width: 8vw;
+        
+    }
+
+    .boxfallsecond{
+        bottom: 0vw;
+        top: 115vw;
+        
+    }
+
+    .boxfallthird{
+        bottom: 0vw;
+        top: 135vw;
+        
+    }
+
+    .strokefirstsmall{
+        position: relative;
+        display: flex;
+        right: 32vw;
+        width: 90vw;
+        
+    }
+
+    .strokefirst{
+        display: none;
+    }
+
+    .strokesecond{
+        display: none;
+    }
+
+
+    .strokefirstimgsmall{
+        width: 80vw;
+        
+    }
+
+    .strokethreeboxosn{
+        bottom: 15vw;
+        
+    }
+
+    .boxfallfive{
+        display: none;
+    }
+
+    .firstfallimg{
+        width: 13vw;
+        
+    }
+
+    
+
+    .secondfallsmall{
+        position: relative;
+        display: flex;
+        bottom: 10vw;
+        right: 2vw;
+        z-index: 3;
+    }
+
+    .secondfallimgsmall{
+        width: 8vw;
+        
+    }
+
+    .secondfall{
+        display: none;
+    }
+
+    .firstfall{
+        position: relative;
+        right: 30vw;
+        
+    }
+
+    .boxfallfourd{
+        left: 0vw;
+        
+    }
+
+    .boxfallfourdtwo{
+        bottom: 5vw;
+        
+    }
+
+    .fixquest{
+        width: 30vw;
+        
+    }
+
+    .fixlight{
+        width: 30vw;
+        
+    }
+
+    .questionfirstboxtwo{
+        bottom: 0vw;
+        top: 310vw;
+        
+    }
+
+    .questionfirstbox{
+        height: 120vw;
+        left: 4vw;
+        
+    }
+
+    
+    .questionseventh{
+        rotate: -11deg;
+        left: 1vw;
+        
+    }
+
+    .questioneigth{
+        rotate: -25deg;
+        top: 1vw;
+        left: 2.8vw;
+        
+    }
+
+    .questionninth{
+        rotate: -50deg;
+        left: 15vw;
+        top: 3vw;
+        
+    }
+
+    .questionten{
+        rotate: -70deg;
+        left: 30vw;
+        top: 5vw;
+        
+    }
+
+    .questioneleven{
+        rotate: -40deg;
+        left: 50vw;
+        bottom: 1vw;
+        
+    }
+
+    .fogotboxbig{
+        bottom: 0vw;
+        top: 117vw;
+        
+    }
+
+    .fogotsecond{
+        bottom: 1vw;
+        left: 2vw;
+    }
+    
+    .fogotthird{
+        bottom: 1.8vw;
+        right: 1vw;
+    }
+    
+    .fogotfourd{
+        bottom: 2.5vw;
+        left: 4vw;
+    }
+    
+    .fogotfifth{
+        bottom: 3vw;
+        left: 4vw;
+    }
+    
+    .fogotsixth{
+        bottom: 0vw;
+        top: 6vw;
+    }
+    
+    .fogotseventh{
+        right: 7vw;
+    }
+    
+    .fogoteighth{
+        bottom: 0vw;
+        top: 7vw;
+        left: 8vw;
+    }
+    
+    .fogotninth{
+        bottom: 0vw;
+        top: 14vw;
+        left: 2vw;
+    }
+    
+    .fogotten{
+        bottom: 0vw;
+        top: 10vw;
+        left: 10vw;
+    }
+    /* последний в первом блоке */
+    .fogoteleven{
+        bottom: 11vw;
+        left: 1vw;
+    }
+
+    .provalboxbig{
+        bottom: 0vw;
+        top: 135vw;
+        
+    }
+
+    .proval{
+        width: 90vw;
+        
+    }
+    
+    .provalimg{
+        width: 90vw;
+        
+    }
+
+    .lightoffbigbox{
+        bottom: 0vw;
+        width: 90vw;
+        top: 270vw;
+    }
+
+    .lightoffbox{
+        rotate: -15deg;
+        right: 15vw;
+    }
+
+    .lightofffirst{
+        bottom: 3vw;
+    }
+    
+    .lightoffsecond{
+        left: 5vw;
+        top: 2vw;
+    }
+    
+    .lightofffoarth{
+        bottom: 10vw;
+        left: 3vw;
+    }
+    
+    .lightofffifth{
+        bottom: 12vw;
+        left: 1vw;
+    }
+
+    .headsmalltwo{
+        display: none;
+    }
+
+    .wheredoptwo{
+        display: none;
+    }
+    
+    
+    .lightoffsixth{
+        bottom: 5vw;
+        right: 15vw;
+    }
+    
+    .lightoffseventh{
+        bottom: 1vw;
+    }
+    
+    .lightoffeighth{
+        bottom: 1vw;
+        right: 10vw;
+    }
+    
+    .lightoffninth{
+        bottom: 1vw;
+        right: 10vw;
+    }
+    
+    .lightofftenth{
+        bottom: 1vw;
+        right: 12vw;
+    }
+    
+    .lightoffeleventh{
+        bottom: 1vw;
+        right: 9vw;
+    }
+    
+    .lightofftwelth{
+        bottom: 1vw;
+        right: 8vw;
+    }
+    
+    .lightoffthirteenth{
+        bottom: 1vw;
+        right: 12vw;
+    }
+    
+    .lightofffourteenth{
+        bottom: 10vw;
+        right: 20vw;
+    }
+    
+    .lightofffifteenth{
+        bottom: 1vw;
+        right: 25vw;
+    }
+    
+    .lightoffsixteenth{
+        bottom: 1vw;
+        right: 25vw;
+    }
+    
+    .lightoffseventeenth{
+        bottom: 1vw;
+        right: 30vw;
+    }
+    
+    .lightoffeighteenth{
+        bottom: 11vw;
+        right: 40vw;
+    }
+    
+    .lightoffnineteenth{
+        bottom: 3vw;
+        right: 45vw;
+    }
+    
+    .lightofftwentyth{
+        bottom: 16vw;
+        right: 45vw;
+    }
+    
+    .lightofftwentyoneth{
+        bottom: 8vw;
+        right: 50vw;
+    }
+    
+    .lightofftwentytwoth{
+        bottom: 5vw;
+        right: 36vw;
+    }
+
+    .perenosbox{
+        bottom: 0vw;
+        top: 160vw;
+    }
+
+    .brokenbox{
+        bottom: 0vw;
+        top: 280vw;
+    }
+
+    .brokenimg{
+        width: 90vw;
+    }
+
+    .fallletterlastonebox{
+        bottom: 0vw;
+        top: 280vw;
+    }
+
+    .fallletterlastone{
+        left: 15vw;
+    }
+
+    .fallletterlastoneimg{
+        width: 10vw;
+    }
+
+    .flolistboxbig{
+        bottom: 0vw;
+        top: 205vw;
+    }
+
+    .flolistlist{
+        top: 0vw;
+        bottom: 50vw;
+    }
+
+    .flolistflo{
+        bottom: 0vw;
+        top: 30vw;
+    }
+
+    .doorbox{
+        bottom: 0vw;
+        top: 65vw;
+    }
+
+    
+    .doorimg{
+        width: 50vw;
+    }
+
+    .falllastletterbox{
+        bottom: 0vw;
+        top: 60vw;
+    }
+
+    .falllastletter{
+        right: 17vw;
+    }
+    
+
+    .falllastletterimg{
+        width: 10vw;
+    }
+
+    .podval{
+        bottom: 0vw;
+        top: 138vw;
+    }
+
+    .listbox{
+        width: 100vw;
+        bottom: 90vw;
+    }
+
+    .minifloboxtwo{
+        display: none;
+    }
+
+
+    .list{
+        display: none;
+    }
+
+    .listsmall{
+        position: relative;
+        display: flex;
+        width: 50vw;
+    }
+
+    .listsmallimg{
+        width: 50vw;
+    }
+
+    .dopdopflobox{
+        position: relative;
+        width: 100vw;
+        display: flex;
+        justify-content: start;
+        bottom: 198vw;
+    }
+
+    .dopdopflo{
+        position: relative;
+        width: 40vw;
+        left: 5vw;
+    }
+
+    .dopdopfloimg{
+        width: 40vw;
+    }
+
+    .dopdopvertbox{
+        position: relative;
+        width: 100vw;
+        display: flex;
+        justify-content: start;
+        bottom: 165vw;
+        z-index: 2;
+        overflow: hidden;
+    }
+
+    .dopdopvert{
+        position: relative;
+        width: 80vw;
+        left: 2vw;
+    }
+
+    .dopdopvertimg{
+        width: 80vw;
+    }
+
+    .dopdopvflowbox{
+        position: relative;
+        width: 100vw;
+        display: flex;
+        justify-content: end;
+        bottom: 250vw;
+    }
+
+    .dopdopflow{
+        position: relative;
+        width: 70vw;
+        overflow: hidden;
+    }   
+
+    .dopdopflowimg{
+        width: 70vw;
+    }
+
+    .myname{
+        width: 30vw;
+        bottom: 3vw;
+    }
+
+    #mynamep{
+        font-size: 3vw;
+    }
+    
+    .logo{
+        bottom: 3vw;
+        right: 8vw;
+    }
+    
+    .logoimg{
+        width: 20vw;
+    }
+
+    .dopdopvflowwowbox{
+        position: relative;
+        width: 100vw;
+        display: flex;
+        justify-content: start;
+        bottom: 265vw;
+    }
+
+    .dopdopflowwow{
+        position: relative;
+        width: 50vw;
+    }
+
+    .dopdopflowwowimg{
+        width:50vw;
+    }
+
+
+
+
+
+}

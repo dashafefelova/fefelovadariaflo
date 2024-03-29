@@ -1,0 +1,1310 @@
+body{ 
+    width: 100vw;
+    height: auto;
+}
+
+:root{
+    background-color: black;
+    font-family: 'Inter';
+    color: #FF81B0;
+    font-size: 1.4vw;
+}
+
+.sectionone{
+    position: relative;
+    width: 100vw;
+    height: 86vw;
+}
+
+.head{
+    width:99vw;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.name{
+    position: relative;
+    width: 60vw;
+    z-index: 0;
+    margin-top: -4vw;
+}
+
+
+.time{
+    position: relative;
+    width: 90vw;
+    height: auto;
+    top: 10vw;
+    left: 2vw;
+    z-index: 0;
+}
+
+.typedcirclebigboxtwo{
+    position: relative;
+    display: flex;
+    justify-content: end;
+    width: 99vw;
+    bottom: 195vw;
+    right: 3vw;
+    z-index: 0;
+}
+
+.typedcirclebigbox{
+    position: relative;
+    display: flex;
+    width: 40vw;
+    height: 30vw;
+    left: 3.5vw;
+}
+
+.typedcirclebox{
+    position: relative;
+    width: 40vw;
+}
+
+.fix{
+    position: relative;
+    width: 33vw;
+    height: auto;
+    z-index: 0;
+}
+
+.typedone{
+    rotate: -34.67deg;
+}
+
+.typedtwo{
+    rotate: -23.49deg;
+    top: 2.5vw;
+    left: 2.5vw;
+}
+
+.typedthree{
+    rotate: -14.81deg;
+    top: 4.8vw;
+    left: 4vw;
+}
+
+.typedfour{
+    rotate: -6.86deg;
+    top: 7vw;
+    left: 4.8vw;
+}
+
+.typedfive{
+    rotate: 4.33deg;
+    top: 10.2vw;
+    left: 4.9vw;
+}
+
+.typedsix{
+    rotate: 16.02deg;
+    top: 13.3vw;
+    left: 4vw;
+}
+
+.typedseven{
+    rotate: 26.13deg;
+    top: 15.9vw;
+    left: 2.4vw;
+}
+
+.typedeight{
+    rotate: 37.32deg;
+    top: 18.4vw;
+    right: 0.3vw;
+}
+
+.typednine{
+    rotate: 46deg;
+    top: 19.9vw;
+    right: 3.3vw;
+
+}
+
+.typedten{
+    rotate: 53.95deg;
+    top: 20.8vw;
+    right: 6.4vw;
+}
+
+.typedeleven{
+    rotate: 65.13deg;
+    top: 21.6vw;
+    right: 10.8vw;
+}
+
+.typedtwelve{
+    rotate: 73.81deg;
+    top: 21.5vw;
+    right: 15vw;
+}
+
+.typedthirteen{
+    rotate: 81.55deg;
+    top: 20.5vw;
+    right: 19vw;
+} 
+
+.boxsovsemuze{
+    position: relative;
+    width: 50vw;
+    height: 40vw;
+    top: 5vw;
+}
+
+.sovsemuze{
+    position: relative;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.sovsemimg{
+    width: 50vw;
+}
+
+.sovsem{
+    width: 100vw;
+    position: relative;
+    z-index: 1;
+    animation: bzig 0.2s infinite;
+}
+
+@keyframes bzig{
+    0%{left: 2vw;}
+    100%{right: 1vw;}
+}
+
+.uze{
+    position: relative;
+    width: 80vw;
+    top: 10vw;
+    left: 15vw;
+    animation: bzig 0.2s infinite;
+}
+
+
+.uzeimg{
+    width: 25vw;
+}
+
+.boxfall{
+    width: 100vw;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.fallingletters{
+    width: 30vw;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    left: 3vw;
+}
+
+.fallinglettersfirstsmall{
+    display: none;
+}
+
+.fallinglettersfirst{
+    position: relative;
+    bottom: 1vw;
+}
+
+.fallfirstimg{
+    width: 7vw;
+}
+
+.fallingletterssecond{
+    position: relative;
+    left: 17vw;
+    top: 1vw;
+}
+
+.fallsecondimg{
+    width: 6vw;
+}
+
+.fallinglettersthird{
+    position: relative;
+    left: 19vw;
+    bottom: 3vw;
+}
+
+.fallthirdimg{
+    width: 7vw;
+}
+
+.flowerfirstbox{
+    position: relative;
+    width: 100vw;
+    bottom: 102vw;
+    right: 15vw;
+    display: flex;
+    justify-content: end;
+}
+
+.flowerfirst{
+    position: relative;
+    width: 40vw;
+    z-index: 1;
+    animation: rotate 1s infinite;
+}
+
+@keyframes rotate{
+    0% {rotate: 0deg;}
+    50%{rotate: 180deg;}
+    100% {rotate: 360deg;}
+}
+
+.flowerfirstimg{
+    width: 45vw;
+}
+
+.scorobox{
+    position: relative;
+    width: 90vw;
+    display: flex ;
+    justify-content: end;
+    bottom:135vw;
+    left: 5.3vw;
+    z-index: 1;
+}
+
+.scorosmallbox{
+    display: none;
+}
+
+.scoro{
+    position: relative;
+    width: 40vw;
+    right: 2vw;
+    z-index: 1;
+    animation: bzig 0.1s infinite;
+}
+.scoroimg{
+    width: 47vw;
+}
+
+.miniflobox{
+    position: absolute;
+    width: 99vw;
+    display: flex;
+    justify-content: end;
+    z-index: 1;
+    margin-top: 8vw;
+}
+
+.miniflo{
+    position: relative;
+    width: 20vw;
+    animation: rotatedone 2s infinite;
+}
+
+@keyframes rotatedone{
+    0% {rotate: 0deg;}
+    50%{rotate: 180deg;}
+    100% {rotate: 360deg;}
+}
+
+.minifloimg{
+    width: 20vw;
+}
+
+.petalsfirstboxtwo{
+    position: relative;
+    width: 99vw;
+    display: flex;
+    justify-content: center;
+    z-index: 2;
+    bottom: 12vw;
+}
+
+.petalsfirstbox{
+    position: relative;
+    width: 28vw;
+    display: flex;
+    justify-content: space-between;
+    right: 15vw;
+
+}
+
+.petalsfirstimg{
+    width: 10vw;
+}
+
+.secondpetal{
+    position: relative;
+    width: 15vw;
+    bottom: 14vw;
+}
+
+.secondpetalimg{
+    width: 17vw;
+}
+
+.petalssecondboxtwo{
+    position: relative;
+    width: 99vw;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    bottom: 20vw;
+}
+
+.petalssecondbox{
+    position: relative;
+    width: 30vw;
+    display: flex;
+    flex-direction: row-reverse;
+    right: 5vw;
+}
+
+.thirdpetal{
+    position: relative;
+    right: 12vw;
+}
+
+.thirdpetalimg{
+    width: 12vw;
+}
+
+.fourthpetal{
+    position: relative;
+    top: 10vw;
+}
+
+.fourthpetalimg{
+    width: 15vw;
+}
+
+.fifthpetal{
+    position: relative;
+    right: 2vw;
+    bottom: 4vw;
+}
+
+.fifthpetalimg{
+    width: 27vw;
+}
+
+.headsmall{
+    display: none;
+}
+
+/* section two */
+
+.sectiontwo{
+    position: relative;
+    width: 100vw;
+    height: 80vw;
+}
+
+.strokes{
+    position: relative;
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.where{
+    position: relative;
+    width: 80vw;
+    left: 3vw;
+    z-index: 2;
+}
+
+.wheredop{
+    display: none;
+}
+
+.whereimg{
+    width: 80vw;
+}
+
+.scenario{
+    position: relative;
+    width: 40vw;
+    left: 38vw;
+    z-index: 0;
+}
+
+.scenarioimg{
+    width: 60vw;
+}
+
+.boxfallsecond{
+    position: relative;
+    width: 90vw;
+    display: flex;
+    justify-content: space-around;
+    bottom: 10vw;
+}
+
+.letterfallfirst{
+    position: relative;
+    width: 10vw;
+    right: 10vw;
+    top: 1vw;
+    z-index: 2;
+}
+
+.letterfallfirstsmall{
+    display: none;
+}
+
+.letterfallimg{
+    width: 7vw;
+}
+
+.letterfallsecond{
+    position: relative;
+    width: 10vw;
+    left:5vw;
+    bottom: 7vw;
+    z-index: 2;
+}
+
+.letterfalltwoimg{
+    width: 7vw;
+}
+
+.boxfallthird{
+    position: relative;
+    width: 60vw;
+    display: flex;
+    justify-content: center;
+    bottom: 13vw;
+}
+
+.letterfallthird{
+    position: relative;
+    width: 10vw;
+    left: 8vw;
+    z-index: 2;
+}
+
+.letterfallfirdsmall{
+    display: none;
+}
+
+.letterfallthreeimg{
+    width: 6.5vw;
+}
+
+.boxthreeflowers{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    bottom: 5vw;
+    z-index: 0;
+}
+
+.fixtwo{
+    position: relative;
+    width: auto;
+}
+
+.firstflo{
+    bottom: 10vw;
+    animation: rotatedtwo 1s infinite;
+}
+
+@keyframes rotatedtwo{
+    0% {rotate: 0deg;}
+    50%{rotate: 180deg;}
+    100% {rotate: 360deg;}
+}
+
+.firstfloimg{
+    width: 35vw;
+}
+
+.secondflo{
+    right: 10vw;
+    bottom: 10vw;
+}
+
+.secondfloimg{
+    width: 15vw;
+}
+
+.thirdflo{
+    right: 2vw;
+    bottom: 7vw;
+}
+
+.thirdfloimg{
+    width: 25vw;
+}
+
+.boxbigflox{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: start;
+    z-index: 1;
+}
+
+.bigflox{
+    position: relative;
+    width: 50vw;
+    left: 3vw;
+    bottom: 70vw;
+    animation: rotatedtwo 1s infinite;
+}
+
+.bigfloximg{
+    width: 80vw;
+}
+
+.fixfix{
+    position: relative;
+    display: flex;
+}
+
+.strokethreeboxosn{
+    width: 87vw;
+    justify-content: end;
+    bottom: 109vw;
+    z-index: 0;
+}
+
+.strokethree{
+    width: 50vw;
+    flex-direction: column;
+}
+
+.strokefirst{
+    position: relative;
+    width: 50vw;
+    bottom: 3vw;
+}
+
+.strokefirstimg{
+    width: 58vw;
+}
+
+.strokesecond{
+    position: relative;
+    width: 40vw;
+    left: 23vw;
+}
+
+.strokesecondimg{
+    width: 40vw;
+}
+
+.fox{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.boxfallfourdtwo{
+    bottom: 131vw;
+}
+
+.boxfallfourd{
+    position: relative;
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+    left: 18vw;
+}
+
+.firstfall{
+    position: relative;
+    width: 10vw;
+    z-index: 3;
+}
+
+.secondfall{
+    position: relative;
+    width: 10vw;
+}
+
+.firstfallimg{
+    width: 7vw;
+}
+
+.secondfallimg{
+    width: 7vw;
+}
+
+.boxfallfive{
+    bottom: 122.5vw;
+}
+
+.thirdfall{
+    position: relative;
+    width: 10vw;
+    left: 6vw;
+    z-index: 3;
+}
+
+.thirdfallimg{
+    width: 4.5vw;
+}
+
+
+.bigboxbroke{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    bottom: 136vw;
+    z-index: 0;
+}
+
+.fixbroke{
+    position: relative;
+    width: 18vw;
+    height: 3vw;
+}
+
+.textbrokebox{
+    position: relative;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.strokefirstsmall{
+    display: none;
+}
+
+.secondfallsmall{
+    display: none;
+}
+
+.minifloboxtwo{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    bottom: 131vw;
+}
+
+.miniflotwo{
+    position: relative;
+    width: 30vw;
+    left: 9vw;
+}
+
+.miniflotwoimg{
+    width: 15vw;
+}
+
+.listbox{
+    position: relative;
+    width: 90vw;
+    display: flex;
+    justify-content: end;
+    bottom: 168vw;
+    z-index: 2;
+}
+
+.list{
+    position: relative;
+    width: 50vw;
+    left: 5.5vw;
+}
+
+.listimg{
+    width: 55vw;
+}
+
+
+
+/* section three */
+
+.sectionthree{
+    position: relative;
+    width: 100vw;
+    height: 80vw;
+}
+
+.fixquest{
+    position: relative;
+    width: 20vw;
+}
+
+.questionfirstboxtwo{
+    position: relative;
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: start;
+    bottom: 27vw;
+}
+
+.questionfirstbox{
+    position: relative;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 50vw;
+    left: 4vw;
+}
+
+.questionfirst{
+    rotate: 3.25deg;
+    left: 1vw;
+}
+
+.questionsecond{
+    rotate: 3.89deg;
+    left: 0.5vw;
+}
+
+.questionthird{
+    rotate: 3.09deg;
+    left: 0.1vw;
+}
+
+.questionfouth{
+    rotate: 2.19deg;
+}
+
+.questionfifth{
+    rotate: -0.73deg;
+}
+
+.questionsixth{
+    rotate: -5.61deg;
+    left: 0.2vw;
+}
+
+.questionseventh{
+    rotate: -11deg;
+    left: 1vw;
+}
+
+.questioneigth{
+    rotate: -25deg;
+    top: 1vw;
+    left: 2.8vw;
+}
+
+.questionninth{
+    rotate: -50deg;
+    left: 6.8vw;
+    top: 3vw;
+}
+
+.questionten{
+    rotate: -70deg;
+    left: 13vw;
+    top: 3vw;
+}
+
+.questioneleven{
+    rotate: -90deg;
+    left: 21vw;
+    bottom: 0.2vw;
+}
+
+.fogotboxbig{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    bottom: 48.5vw;
+    z-index: -1;
+}
+
+.fixfog{
+    position: relative;
+    width: 30vw;
+}
+
+.fogotbox{
+    position: relative;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    left: 15vw;
+    rotate: -13deg;
+}
+
+.fogotsecond{
+    bottom: 1vw;
+    left: 2vw;
+}
+
+.fogotthird{
+    bottom: 1.8vw;
+    right: 1vw;
+}
+
+.fogotfourd{
+    bottom: 2.5vw;
+    left: 1vw;
+}
+
+.fogotfifth{
+    bottom: 3vw;
+    left: 0.5vw;
+}
+
+.fogotsixth{
+    bottom: 3.5vw;
+}
+
+.fogotseventh{
+    right: 1vw;
+}
+
+.fogoteighth{
+    bottom: 1vw;
+    left: 1vw;
+}
+
+.fogotninth{
+    bottom: 1.6vw;
+    left: 2vw;
+}
+
+.fogotten{
+    bottom: 2.8vw;
+    left: 0.5vw;
+}
+/* последний в первом блоке */
+.fogoteleven{
+    bottom: 11vw;
+    left: 1vw;
+}
+
+.provalboxbig{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: start;
+    bottom: 65vw;
+    z-index: 2;
+}
+
+.proval{
+    position: relative;
+    width: 60vw;
+    display: flex;
+    left: 5vw;
+    animation: bz 0.1s infinite;
+}
+
+@keyframes bz{
+    0%{top: 1vw;}
+    100%{bottom: 1vw}
+}
+
+.provalimg{
+    width: 60vw;
+}
+
+.brokenbox{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: start;
+    bottom: 55vw;
+}
+
+.broken{
+    position: relative;
+    width: 40vw;
+    left: 2vw;
+}
+
+.brokenimg{
+    width: 40vw;
+}
+
+.fallletterlastonebox{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: start;
+    bottom: 55vw;
+}
+
+.fallletterlastone{
+    position: relative;
+    width: 10vw;
+    left: 7.5vw;
+    z-index: 3;
+}
+
+.fallletterlastoneimg{
+    width: 5vw;
+}
+
+.lightoffbigbox{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: end;
+    bottom: 65vw;
+}
+
+.fixlight{
+    position: relative;
+    width: 20vw;
+}
+
+.lightoffbox{
+    position: relative;
+    width: 20vw;
+    height: 80vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    rotate: 20deg;
+    right: 20vw;
+}
+
+.lightofffirst{
+    bottom: 2vw;
+}
+
+.lightoffsecond{
+    left: 5vw;
+    top: 3vw;
+}
+
+.lightofffoarth{
+    bottom: 2.7vw;
+    left: 3vw;
+}
+
+.lightofffifth{
+    bottom: 2vw;
+    left: 1vw;
+}
+
+.lightoffsixth{
+    bottom: 4vw;
+    right: 3vw;
+}
+
+.lightoffseventh{
+    bottom: 7vw;
+}
+
+.lightoffeighth{
+    bottom: 7vw;
+    right: 4vw;
+}
+
+.lightoffninth{
+    bottom: 5vw;
+    right: 10vw;
+}
+
+.lightofftenth{
+    bottom: 3vw;
+    right: 12vw;
+}
+
+.lightoffeleventh{
+    bottom: 6vw;
+    right: 9vw;
+}
+
+.lightofftwelth{
+    bottom: 8.5vw;
+    right: 8vw;
+}
+
+.lightoffthirteenth{
+    bottom: 8.5vw;
+    right: 12vw;
+}
+
+.lightofffourteenth{
+    bottom: 9vw;
+    right: 20vw;
+}
+
+.lightofffifteenth{
+    bottom: 6vw;
+    right: 17vw;
+}
+
+.lightoffsixteenth{
+    bottom: 8.8vw;
+    right: 15.5vw;
+}
+
+.lightoffseventeenth{
+    bottom: 10vw;
+    right: 17vw;
+}
+
+.lightoffeighteenth{
+    bottom: 11vw;
+    right: 16vw;
+}
+
+.lightoffnineteenth{
+    bottom: 14.3vw;
+    right: 16vw;
+}
+
+.lightofftwentyth{
+    bottom: 16vw;
+    right: 10vw;
+}
+
+.lightofftwentyoneth{
+    bottom: 15vw;
+    right: 13vw;
+}
+
+.lightofftwentytwoth{
+    bottom: 10vw;
+    right: 16vw;
+}
+
+.flolistboxbig{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: start;
+    bottom: 140vw;
+}
+
+.flolistbox{
+    position: relative;
+    display: flex;
+    width: 80vw;
+    justify-content: space-between;
+}
+
+.flolistlist{
+    position: relative;
+    width: 30vw;
+    top: 10vw;
+}
+
+.flolistlistimg{
+    width: 40vw;
+}
+
+.flolistflo{
+    position: relative;
+    width: 30vw;
+    right: 7vw;
+    bottom: 15vw;
+    animation: rotatedtwo 1s infinite;
+}
+
+.flolistfloimg{
+    width: 45vw;
+}
+
+.perenosbox{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    bottom: 225vw;
+}
+
+.perenos{
+    position: relative;
+    width: 70vw;
+    animation: bzig 0.2s infinite;
+}
+
+.perenosimg{
+    width: 70vw;
+}
+
+.doorbox{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: end;
+    bottom: 225vw;
+}
+
+.door{
+    position: relative;
+    width: auto;
+    right: 2vw;
+}
+
+.doorimg{
+    width: 23vw;
+}
+
+.falllastletterbox{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: end;
+    bottom: 228vw;
+}
+
+.falllastletter{
+    position: relative;
+    width:15vw;
+    right: 1vw;
+}
+
+.falllastletterimg{
+    width: 5vw;
+}
+
+.podval{
+    position: relative;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    bottom: 217vw;
+}
+
+.myname{
+    position: relative;
+    width: 20vw;
+    left: 3vw;
+}
+
+#mynamep{
+    font-size: 2vw;
+}
+
+.logo{
+    position: relative;
+    width: 15vw;
+    right: 3vw;
+}
+
+.logoimg{
+    width: 15vw;
+}
+
+.doppflobox{
+    display: none;
+}
+
+.dopdopflobox{
+    display: none;
+}
+
+.dopdopvertbox{
+    display: none;
+}
+
+.dopdopvflowbox{
+    display: none;
+}
+
+.dopdopvflowwowbox{
+    display: none;
+}
+
+.listsmall{
+    display: none;
+}
+
+.headtwo{
+    position: relative;
+    width: 60vw;
+    bottom: 1vw;
+    left: 20vw;
+    display: none;
+}
+
+.wheretwo{
+    position: relative;
+    width: 80vw;
+    left: 3vw;
+    display: none;
+}
+
+.scenariotwo{
+    position: relative;
+    width: 40vw;
+    left: 38vw;
+    display: none;
+}
+
+.strokefirsttwo{
+    position: relative;
+    width: 50vw;
+    bottom: 3vw;
+    display: none;
+}
+
+.strokesecondtwo{
+    position: relative;
+    width: 40vw;
+    left: 23vw;
+    display: none;
+}
+
+.brokentwo{
+    position: relative;
+    width: 40vw;
+    left: 2vw;
+    display: none;
+}
+
+.doortwo{
+    position: relative;
+    width: auto;
+    right: 2vw;
+    display: none;
+}
+
+span{
+    animation: opacity 0.3s infinite alternate; 
+}
+
+@keyframes opacity{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
+}
+
+
+
+p{
+    width: 35ch;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: printed-text 1s steps(20) infinite;
+}
+
+
+@keyframes printed-text{
+    from{
+        width: 0;
+    }
+}
+
+.strokefirstsmalltwo{
+    display: none;
+}
+
+.deskflo{
+    position: relative;
+    bottom: 20vw;
+}
+
+.headsmalltwo{
+    display: none;
+}
+
+.wheredoptwo{
+    display: none;
+}
